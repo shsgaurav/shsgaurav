@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shsgaurav
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Deep Learning
+- 👀 Data Engineer
 
 
 <!---
